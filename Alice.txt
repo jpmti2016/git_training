@@ -6,3 +6,5 @@ Merging divergent branches.
 Before rebase
 
 Changed remote
+
+Remote conflict
