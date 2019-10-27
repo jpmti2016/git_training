@@ -4,3 +4,5 @@ Changed md.
 Merging divergent branches.
 
 Before rebase
+
+Changed remote
