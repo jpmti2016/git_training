@@ -2,3 +2,5 @@ Hi! I'm Bob. I'm a file someone added to this repository a while ago.
 Changed md.
 
 Merging divergent branches.
+
+Before rebase
